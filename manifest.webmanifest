@@ -1,0 +1,10 @@
+{
+  "name": "Trợ lý trắc nghiệm Bắc Ninh",
+  "short_name": "Trắc nghiệm BN",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#173b70",
+  "lang": "vi",
+  "description": "Công cụ chuẩn bị câu hỏi để phân tích bằng ChatGPT."
+}
